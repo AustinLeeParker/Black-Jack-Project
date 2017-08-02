@@ -10,10 +10,11 @@
 */
 
 
-function handValue (hand) {
+function handValue(hand) {
+  let hand = [];
+  for (i = 0; i < )
 
-
-  return;
+    return;
 }
 
 
